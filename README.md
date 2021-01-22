@@ -1,5 +1,5 @@
 ## Smartlamp
-![](lamp.PNG)
+![Lamp](lamp.PNG)
 ## Introduction
 The smartlamp is a project I worked on during the first weeks of the 3d semester on Fontys. This project was meant for us students to get familiar with Arduinos. I challenged myself to make a smartlamp that I could interact with my phone.
 
@@ -28,7 +28,7 @@ The following libraries were used to make this project.
 1. Open up the Arduino IDE software
 2. Go to Sketch -> Include Library -> Manage libraries
 3. The library manager will open. Search for the right library and click on install. Some of the libraries mentioned above might already be installed.
-![](libraryAdd.PNG)
+![library](libraryAdd.PNG)
 
 ## How to Use
 1. Grab some male to female wires <br>
